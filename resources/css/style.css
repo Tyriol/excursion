@@ -19,6 +19,15 @@ h2 {
   font-weight: 300;
 }
 
+p {
+  color: grey;
+  font-size: 21px;
+}
+
 .white {
   color: white;
+}
+
+.right {
+  text-align: right;
 }
